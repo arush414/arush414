@@ -35,7 +35,7 @@ A Sophomore at IIT Guwahati Mathematics And Computing.
 <a href="https://www.instagram.com/arush_207/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="letsintegreat" height="25" width="40" /></a>
 
 <a href="https://www.kaggle.com/arush207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arush207" height="30" width="40" /></a>
-
+</p>
 
 
 <!-- Add clickable images that link to your projects -->
