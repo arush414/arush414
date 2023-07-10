@@ -25,16 +25,13 @@ A Sophomore at IIT Guwahati Mathematics And Computing.
 
 <!-- Add images/icons for the mentioned languages and tools -->
 
-## Machine Learning Projects
-<!-- Showcase your ML projects with images and descriptions -->
 
-## Development Projects
-<!-- Showcase your development projects with images and descriptions -->
 
 ## Connect with Me
 <!-- Add social media icons that link to your profiles -->
-[<img src="linkedin-icon-url" width="40" height="40" alt="LinkedIn">](https://www.linkedin.com/in/arushgupta207/)
-[<img src="instagram-icon-url" width="40" height="40" alt="Instagram">](https://www.instagram.com/arush_207/?hl=en/)
+<a href="https://www.linkedin.com/in/arushgupta207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Arush Gupta" height="30" width="40" /></a>
+
+<a href="https://www.instagram.com/arush_207/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="letsintegreat" height="30" width="40" /></a>
 
 <!-- Add clickable images that link to your projects -->
 
