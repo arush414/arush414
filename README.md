@@ -1,6 +1,6 @@
 # Hi 👋, I'm Arush Gupta
 
-A Sophomore at IIT Guwahati Mathematics And Computing.
+A pre final yearite at IIT Guwahati Mathematics And Computing.
 
 - 🌱 I’m currently learning **DL, ML, React**
 - 💬 Ask me about **data structures, ML models, and anything that interests you**
